@@ -111,7 +111,7 @@ public:
 		else {
 			cout << " ---- Error en la conexion-----" << endl;
 	
-		}void eliminar_marca() {
+		}void eliminar() {
 			int id;
 			string idempleado, idpuesto;
 
